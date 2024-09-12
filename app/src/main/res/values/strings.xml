@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CleanWise</string>
+    <string name="loggedin">LoggedIn</string>
+    <string name="log_out">Log Out</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="bathroom_text">Schedule for Washroom ID </string>
+    <string name="superviseMorningTime">Slot 1: 9:00 AM - 10:00 AM</string>
+    <string name="superviseNoonTime">Slot 2: 1:00 PM - 2:00 PM</string>
+    <string name="superviseEveningTime">Slot 3: 7:00 PM - 8:00 PM</string>
+    <string name="history_page_text">No Past Records</string>
+    <string name="log_out_button_test">Log Out</string>
+    <string name="currentDate">currentDate</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="scan_qr_text">Scan QR Code of the \n Washroom</string>
+    <string name="loading">Signing In…</string>
+    <string name="images_label">Images:</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_new_image">Add New Image</string>
+    <string name="submit">Submit</string>
+    <string name="past_records">Past Records</string>
+    <string name="tasks_label">Tasks:</string>
+    <string name="connect_wifi">Connect WiFi</string>
+    <string name="exit_app">Exit</string>
+    <string name="logo_image_text">Logo Image Text</string>
+    <!--<string name="main_screen_text">CLEAN IIITD</string>-->
+</resources>
